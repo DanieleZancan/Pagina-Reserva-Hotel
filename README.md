@@ -40,7 +40,7 @@ Página-Reserva-Hotel/
 │   ├── logo1.png  
 │   ├── logo2.png  
 │   └── bg-form.jpg  
-└── README.md  
+└── README.md    
 **Responsividade**   
 O projeto foi desenvolvido com foco em responsividade, utilizando media queries para ajustar o layout em diferentes tamanhos de tela:
 
