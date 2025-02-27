@@ -2,6 +2,8 @@
 
 Este projeto é uma página de captura responsiva desenvolvida com HTML e CSS. A página inclui um formulário de inscrição, design moderno e adaptável para diferentes tamanhos de tela, garantindo uma boa experiência do usuário em dispositivos móveis e desktops.
 
+<img src="images/tela-do-projeto.png">
+
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estruturação do conteúdo da página.
